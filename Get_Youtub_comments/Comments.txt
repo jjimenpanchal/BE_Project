@@ -1,0 +1,17 @@
+can't we write arr[n]={-1}; ??
+https://youtu.be/Iq8zjACchFI
+46:15 what if we use, int arr[n] = {x}; // where x is any integer. Will that work for array to initialize it with a single integer?
+1:26:38 maps
+51:06 all of the doubts are so dumbbbbbssx
+Sir your teaching style is like  that of a pro........ enjoyed it
+A pro tip , play video at 1.5x speed
+is he the one from coding blocks?
+What if R is the last element of vector  =>  r-+1  will lead to out of Space?
+Can somebody give timestamps
+Sir how we can get to know that when we have to use this trick.
+Yeah, I like the way of teaching of Sanketh Singh.
+One can initialize an array like int arr[n] = {x};
+What was the intuition behind cumulative sum?
+In my opinion Saket Singh is the best tutor in unacademy way better than some teachers of unacademy.
+0:20
+girls-for-you.online
